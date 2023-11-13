@@ -11,6 +11,7 @@ const ExpressServer = () => {
 
   // DELETE
 
+  return app;
 };
 
 module.exports = { ExpressServer };
